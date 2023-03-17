@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testopenstreetmap</string>
+    <string name="line_button">Линия</string>
+    <string name="centre_button">Центр</string>
+</resources>
